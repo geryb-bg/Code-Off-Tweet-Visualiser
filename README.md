@@ -15,6 +15,8 @@ Entries are open to all attendees of the 2016 JS in SA conference.
 To enter, simply fork this repo and make your changes.
 If your GitHub account doesn't contain your name, please add it in the root README.md so we know who you are. In the spirit of the JSinSA conference, sponsors will not maintain or claim source code, it belongs to you, just have fun!
 
+Please make sure your code doesn't require heavy external dependencies to run. The simpler, the better.
+
 Entries will close at 15:30 on Saturday 16 July 2016.
 
 ## Inspiration
