@@ -17,7 +17,7 @@ If your GitHub account doesn't contain your name, please add it in the root READ
 
 Please make sure your code doesn't require heavy external dependencies to run. The simpler, the better.
 
-Entries will close at 15:30 on Saturday 16 July 2016.
+Entries will close at 16:30 on Saturday 16 July 2016.
 
 ## Inspiration
 To get you going, have a look at these three JavaScript libraries that can be used in different ways to do something cool with the tweets. You're not restricted to using any of these, but they may be a good source for inspiration. 
