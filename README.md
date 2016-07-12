@@ -1,3 +1,6 @@
+Name: Gergana Young
+Disclaimer: Only tested in Crome
+
 ![Code Off](http://www.prolificidea.com/assets/img/code_off-logo.png "Code Off")
 
 # Code Off - JSinSA Tweet Visualiser
