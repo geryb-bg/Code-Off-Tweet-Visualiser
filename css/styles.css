@@ -1,11 +1,17 @@
-h2 {
-  clear:both;
+body
+{
+	background-color: #000;
+	width: 80%;
+	min-width: 999px;
+	height: 100%;
+	min-height: 900px;
+	margin: auto;
 }
 
 p, a {
-  font-size:9pt;
+  font-size:32px;
   margin:10px 0 0 0;
-  color:#3d3d3d;
+  color:#dedede;
 }
 
 a, a:visited {
@@ -25,11 +31,15 @@ ul li {
 }
 
 ul li:hover {
-  background-color:#f0f3fb;
+  background-color:#3d3d3d;
 }
 
-.user, .tweet, .timePosted {
+.user, .tweet {
   float:left;
+}
+
+.timePosted {
+  display: none;
 }
 
 .user {
@@ -37,11 +47,7 @@ ul li:hover {
 }
 
 .tweet {
-  width:50%;
-}
-
-.timePosted {
-  width:15%;
+  width:60%;
 }
 
 .user {
@@ -80,4 +86,13 @@ ul li:hover {
 .media img {
   max-width:250px;
   max-height:250px;
+}
+
+
+.main-content
+{
+	width: 100%;
+	height: 100%;	
+	color: #ff6;	
+	overflow: hidden;
 }
